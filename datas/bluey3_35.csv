@@ -1,0 +1,59 @@
+Type,Valeur
+Seuil de d�tection,35.0
+Dur�e totale (secondes),408.8
+Nombre de cuts,47
+Fr�quence (cuts/minute),6.90
+Temps moyen entre cuts (secondes),8.3
+Temps minimum entre cuts (secondes),0.8
+Temps maximum entre cuts (secondes),40.4
+url,https://www.youtube.com/watch?v=QwPUAJpKIlE
+
+Liste des cuts
+Num�ro,Timestamp
+1,26.3
+2,34.4
+3,35.2
+4,43.7
+5,49.5
+6,54.4
+7,57.2
+8,93.6
+9,111.3
+10,112.8
+11,116.4
+12,156.8
+13,177.7
+14,185.9
+15,201.6
+16,202.8
+17,204.4
+18,243.5
+19,245.2
+20,251.8
+21,256.6
+22,257.6
+23,259.9
+24,266.2
+25,269.5
+26,270.9
+27,272.8
+28,273.6
+29,274.5
+30,276.6
+31,300.6
+32,306.1
+33,316.9
+34,323.2
+35,336.3
+36,341.0
+37,342.6
+38,343.5
+39,344.5
+40,346.3
+41,347.6
+42,355.3
+43,357.4
+44,360.6
+45,367.4
+46,392.3
+47,406.2
